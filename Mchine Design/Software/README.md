@@ -19,3 +19,6 @@
 6. open Universal Gcode Sender, connect it to the machine by selecting the right port and use the machine
 7. if in the Gcode the Z level is lower than zero, the servo motor will move down, if the Z level is higher than zero, the servo motor will move down.
 7. when you create your Gcode (for example using Inkscape) you will make sure the Z axis move above 0 when moving freely and below 0 when printing
+
+## Step per mm calculator
+(https://blog.prusaprinters.org/calculator_3416/)[https://blog.prusaprinters.org/calculator_3416/]
